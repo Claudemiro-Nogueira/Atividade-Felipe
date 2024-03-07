@@ -1,5 +1,5 @@
 # Comparação dos algoritmos em tempo
-![](../../../Prof%20Felipe/20%2002%202024%20Estrutura%20de%20Dados%202/27%2002%202024%20Prova/imagem.jpg)
+![](imagem.jpg)
 
 
 | | | | | | | | | | | | | |
